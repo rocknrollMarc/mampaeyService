@@ -1,0 +1,25 @@
+baseurl = "http://mampaey.herokuapp.com/"
+languageCode = "de-de"
+title = "Mamapaey Bar & Service Training"
+theme = "landing-page-hugo"
+[params]
+  description = "Bar & Service Training right at your Venue"
+[[params.social]]
+  title = "twitter"
+  url = "https://twitter.com/mampaey"
+[[params.social]]
+  title = "facebook"
+  url = "https://facebook.com/"
+[[menu.main]]
+  name = "Classic Bar"
+  weight= -110
+  identifier = "Classic Bar"
+  url = "/Bar/"
+ [[menu.main]]
+  name = "Service"
+  weight = -100
+  url = "/Service/"
+ [[menu.main]]
+  name = "Prices"
+  weight = -90
+  url = "/prices/"

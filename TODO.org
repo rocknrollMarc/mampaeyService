@@ -1,0 +1,25 @@
+* Tasks
+** TODO    landing page    <2015-03-17 Tue 12:56>
+
+ 
+ Link: file:~/go/src/github.com/rocknrollmarc/hugo/mampaeyService/.git
+** TODO  Bar page      <2015-03-17 Tue 13:00>
+ 
+ Link: file:~/go/src/github.com/rocknrollmarc/hugo/mampaeyService/.git
+** TODO  Service page      <2015-03-17 Tue 13:00>
+ 
+ Link: file:~/go/src/github.com/rocknrollmarc/hugo/mampaeyService/.git
+** TODO        <2015-03-17 Tue 13:06>
+ 
+ Link: file:~/go/src/github.com/rocknrollmarc/hugo/mampaeyService/TODO.org
+** TODO  Archtypes      <2015-03-17 Tue 13:06>
+ 
+ Link: file:~/go/src/github.com/rocknrollmarc/hugo/mampaeyService/config.toml::name%20%3D%20"Classic%20Bar"
+
+* landing page
+- [ ] add background pic
+
+* Checklist
+- www.Klaus nathea.de / zuckerbrot
+- [ ] 
+
